@@ -1,1 +1,1 @@
-"This is from main branch" 
+"This is sample file for CDD Lab" 
